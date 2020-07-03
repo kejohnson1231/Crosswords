@@ -9,11 +9,11 @@ Generalized crossword statistics are easy to find, but it really difficult to ge
 
 I used a Selenium webscraper to login to my NYT puzzle account and scrape the following data for each daily puzzle
 
->Puzzle Date 
->Solve time (in seconds)
->Day of the Week
->Puzzle Author
->Clues
+> Puzzle Date  
+> Solve time (in seconds)  
+> Day of the Week  
+> Puzzle Author  
+> Clues  
 
 
 When I got my data I was so excited to start digging into it. Conventional wisdom is that Mondays are the easiest and crosswords get harder through the week, with Saturday being the hardest. Sundays are the largest puzzles and expect the longest solve times. 
