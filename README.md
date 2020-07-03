@@ -29,19 +29,22 @@ I began by comparing the years 2017 and 2018 to see if there was improvement in 
 
 > Alternative Hypothesis: There is a significant difference in average solve times between 2017 and 2018  
 
+<img src="Images/solves_by_day_17_18.png">
+
 
 ### Results
 
-I found a p-value: 1.9166e-12
-Reject the Null Hypothesis 
+I found a p-value: 1.9166e-12 and rejected the Null Hypothesis 
 
-
+<img src="Images/solves_by_day_17_18_v4.png">
 
 ### Additional Insights
 
 I wanted to look at prolific constructors who had hit for the cycle in the years for which I scraped 
-Hit for the Cycle – a term borrowed from baseball, it means that a constructor has had at least one puzzle published for each day of the week.  Some interesting variation here in the lack of nice smooth upward trends, probably at least partially due to small sample size, but I’ve already started looking into those puzzles on my own time. 
+Hit for the Cycle – a term borrowed from baseball, it means that a constructor has had at least one puzzle published for each day of the week.  Some interesting variation here in the lack of nice smooth upward trends, probably at least partially due to small sample size.  
 
+<img src="Images/hitforthecycle1">
+<img src="Images/hitforthecycle2">
 
 ### Future Steps 
 
@@ -50,7 +53,7 @@ In the future I would like to analyze data of clues further using NLP or searchi
 
 ### Technology and Sources: 
 
-Python, Jupyter, Selenium, Pandas, Numpy, Pyspark, matplotlib, scikitlearn, The New York Times 
+Python, Jupyter, Selenium, Pandas, Numpy, Pyspark, matplotlib, SciPy, The New York Times 
 
 
 
