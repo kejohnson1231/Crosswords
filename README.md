@@ -43,8 +43,8 @@ I found a p-value: 1.9166e-12 and rejected the Null Hypothesis
 I wanted to look at prolific constructors who had hit for the cycle in the years for which I scraped 
 Hit for the Cycle – a term borrowed from baseball, it means that a constructor has had at least one puzzle published for each day of the week.  Some interesting variation here in the lack of nice smooth upward trends, probably at least partially due to small sample size.  
 
-<img src="Images/hitforthecycle1">
-<img src="Images/hitforthecycle2">
+<img src="Images/hitforthecycle1.png">
+<img src="Images/hitforthecycle2.png">
 
 ### Future Steps 
 
